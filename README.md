@@ -1,8 +1,4 @@
-Here is a **clean, professional, and attractive README.md** for your project
 **“CityTwin: Driverless Taxi Simulation with Voice Control”**
-
-You can directly paste this into GitHub.
-
 ---
 
 # 🚖 CityTwin: Driverless Taxi Simulation with Voice Control
@@ -181,6 +177,3 @@ Feel free to use, modify, and experiment.
 **Ashish (Ash)**
 Driven by building impactful digital solutions for real-world problems.
 
----
-
-If you want, I can also generate a **project description for LinkedIn**, **GitHub tags**, **badges**, or a **project abstract for your report**.
