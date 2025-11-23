@@ -1,6 +1,3 @@
-**“CityTwin: Driverless Taxi Simulation with Voice Control”**
----
-
 # 🚖 CityTwin: Driverless Taxi Simulation with Voice Control
 
 *A Digital Twin–based Virtual Testing Environment for Autonomous Taxis*
